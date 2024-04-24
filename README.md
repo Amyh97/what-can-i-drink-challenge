@@ -1,3 +1,4 @@
+# This project was a challenge from Code Institute done for learning purposes
 # What Can I Drink challenge. 
 
 This is one of the two challenges set at the end of the "Test Driven Development u=Using Jasmine" challenge
